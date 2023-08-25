@@ -15,4 +15,4 @@
   It is a multi-purpose and intuitive bot that aims to be useful, offering various features and commands
 </h3>
 </div>
-[Invite me](https://discord.com/oauth2/authorize?client_id=866604832957136918&permissions=8&scope=applications.commands%20bot) | [Support Server]()
+**[ Invite me ](https://discord.com/oauth2/authorize?client_id=866604832957136918&permissions=8&scope=applications.commands%20bot) | [ Support Server ](https://discord.gg/qsyo)**
