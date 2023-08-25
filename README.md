@@ -4,7 +4,7 @@
   </a>
 </p>
 <div align="center">
-  <b>Wayz</b>
+  <h1>Wayz</h1>
 </div>
 
 ---
