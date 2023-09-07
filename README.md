@@ -18,5 +18,5 @@
   <a href="https://discord.gg/6v2JVBEKW7"><img width="100" src="https://github.com/Wayz-Bot/Wayz-Bot/blob/main/src/img/support.png" alt="support-server" /></a>
   <a href="https://wayz-bot.vercel.app/"><img width="100" src="https://github.com/Wayz-Bot/Wayz-Bot/blob/main/src/img/website.png" alt="website" /></a>
 </p>
-
+## Support
 <a href="https://discord.gg/6v2JVBEKW7"><img src="https://invidget.switchblade.xyz/6v2JVBEKW7" alt="Discord" /></a>
