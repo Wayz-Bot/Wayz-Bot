@@ -15,6 +15,7 @@
 <div>
   <a href="https://discord.com/oauth2/authorize?client_id=866604832957136918&permissions=1101927827510&scope=applications.commands%20bot" role="button">Add-bot to server</a>
 </div>
+
 ## **Eternal Links**
 - [Website](https://wayz.js.org)
 - [Invite](https://discord.com/oauth2/authorize?client_id=866604832957136918&permissions=1101927827510&scope=applications.commands%20bot)
