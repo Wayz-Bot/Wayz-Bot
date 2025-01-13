@@ -23,8 +23,8 @@
 📝 Utilities<br>
 ✨ Levels<br>
 🎯 Entertainment<br>
-❓ More...
-  </h3>
+❓ More...<br>
+  </h3><br>
 </div>
 <p align="center">
 <a href="https://wayz.js.org"><img width="250" src="https://github.com/Wayz-Bot/Wayz-Bot/blob/main/src/img/website.png" alt="Website"></a>
