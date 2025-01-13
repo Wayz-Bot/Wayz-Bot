@@ -5,11 +5,11 @@
   </a>
 </p>
 <div align="center">
-  <h2>Wayz</h2>
+  <h2>Wayz!</h2>
 </div>
 <div align="center"> 
 <h4>
-  It is a multi-purpose and intuitive bot that aims to be useful, offering various features and commands
+  The best discord bot multipurpose made for you!
 </h4>
 </div>
     
