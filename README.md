@@ -9,10 +9,10 @@
 </div>
 
 <div align="center">
-<h3>To know the list of commands, it is as simple as writing <code>,help</code> and navigating the dynamic menu.</h3> 
-  <h2><b>What are you waiting for to start our adventure?</b></h2>
-  <h2>An all-in-one bot with endless features!</h2>
-  <h2>
+<h4>To know the list of commands, it is as simple as writing <code>,help</code> and navigating the dynamic menu.</h4> 
+  <h5><b>What are you waiting for to start our adventure?</b></h5>
+  <h4>An all-in-one bot with endless features!</h4>
+  <h3>
 ⚙️ Configuration<br><br>
 📒 Information<br><br>
 🔨 Moderation<br><br>
@@ -20,7 +20,7 @@
 ✨ Levels<br><br>
 🎯 Entertainment<br><br>
 ❓ More...<br>
-  </h2><br>
+  </h3><br>
 </div>
 <p align="center">
 <a href="https://wayz.js.org"><img width="250" src="https://github.com/Wayz-Bot/Wayz-Bot/blob/main/src/img/website.png" alt="Website"></a>
