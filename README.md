@@ -16,15 +16,15 @@
 <h3>To know the list of commands, it is as simple as writing <code>,help</code> and navigating the dynamic menu.</h3> 
   <h2><b>What are you waiting for to start our adventure?</b></h2>
   <h2>An all-in-one bot with endless features!</h2>
-  <h3>
-⚙️ Configuration<br>
-📒 Information<br>
-🔨 Moderation<br>
-📝 Utilities<br>
-✨ Levels<br>
-🎯 Entertainment<br>
+  <h1>
+⚙️ Configuration<br><br>
+📒 Information<br><br>
+🔨 Moderation<br><br>
+📝 Utilities<br><br>
+✨ Levels<br><br>
+🎯 Entertainment<br><br>
 ❓ More...<br>
-  </h3><br>
+  </h1><br>
 </div>
 <p align="center">
 <a href="https://wayz.js.org"><img width="250" src="https://github.com/Wayz-Bot/Wayz-Bot/blob/main/src/img/website.png" alt="Website"></a>
