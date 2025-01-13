@@ -20,4 +20,4 @@
 
 ### **Support**
     
-<a href="https://discord.gg/2jZE4VCA7F"><img src="https://invidget.switchblade.xyz/6v2JVBEKW7" alt="Discord" /></a>
+<a href="https://discord.gg/2jZE4VCA7F"><img src="https://invidget.switchblade.xyz/2jZE4VCA7F" alt="Discord" /></a>
