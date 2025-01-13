@@ -11,7 +11,7 @@
 <div align="center">
 <h4>To know the list of commands, it is as simple as writing <code>,help</code> and navigating the dynamic menu.</h4> 
   <h5><b>What are you waiting for to start our adventure?</b></h5>
-  <h4>An all-in-one bot with endless features!</h4>
+  <h3>An all-in-one bot with endless features!</h3>
   <h3>
 ⚙️ Configuration<br><br>
 📒 Information<br><br>
