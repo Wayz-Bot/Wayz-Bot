@@ -14,7 +14,7 @@
 </div>
 
 ## **Eternal Links**
-<img width="50" src="https://github.com/Wayz-Bot/Wayz-Bot/blob/main/src/img/website.png" href="https://wayz.js.org">
+<img src="https://github.com/Wayz-Bot/Wayz-Bot/blob/main/src/img/website.png" href="https://wayz.js.org">
 - [Website](https://wayz.js.org)
 - [Invite](https://discord.com/oauth2/authorize?client_id=866604832957136918&permissions=1101927827510&scope=applications.commands%20bot)
 - [Support Server](https://discord.gg/2jZE4VCA7F)
