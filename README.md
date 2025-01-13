@@ -3,14 +3,8 @@
   <a href="https://wayz.js.org"><img width="250" src="https://github.com/Wayz-Bot/Wayz-Bot/blob/main/src/img/wayz.png"></a>
 </p>
 
-<div style="font-size 30px" align="center">
-  <h1>Wayz!</h1>
-</div>
-<div align="center"> 
-<h3>
-  The best discord bot multipurpose made for you!
-</h3>
-</div>
+<div style="" align="center"><h1>Wayz!</h1></div>
+<div align="center"><h3>The best discord bot multipurpose made for you!</h3></div>
 <div align="center">
 <h3>To know the list of commands, it is as simple as writing <code>,help</code> and navigating the dynamic menu.</h3> 
   <h2><b>What are you waiting for to start our adventure?</b></h2>
