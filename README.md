@@ -30,3 +30,8 @@
   <h3>Support</h3>
   <a href="https://discord.gg/2jZE4VCA7F"><img src="https://invidget.switchblade.xyz/2jZE4VCA7F" alt="Discord" /></a>
   </div>
+<br>
+<br>
+<br>
+
+> Developed by [Kwoon.dev!](https://discord.com/users/841131506549522463)
