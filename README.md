@@ -5,12 +5,12 @@
   </a>
 </p>
 <div align="center">
-  <h2>Wayz!</h2>
+  <h1>Wayz!</h1>
 </div>
 <div align="center"> 
-<h4>
+<h2>
   The best discord bot multipurpose made for you!
-</h4>
+</h2>
 </div>
 
 ## **Eternal Links**
