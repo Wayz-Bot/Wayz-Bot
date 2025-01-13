@@ -28,6 +28,7 @@
 </p>
 <br>
   <div align="center">
-    <img width="200" src="https://github.com/Wayz-Bot/Wayz-Bot/blob/main/src/img/support.png" alt="Support"><br><br>
+      <h3>Support</h3>
+    <br><br>
   <a href="https://discord.gg/2jZE4VCA7F"><img src="https://invidget.switchblade.xyz/2jZE4VCA7F" alt="Discord" /></a>
   </div>
