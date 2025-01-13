@@ -4,7 +4,8 @@
 </p>
 
 <div align="center">
-<h1>Wayz! Discord Bot</h1>
+<h1>Wayz! Discord App</h1>
+  <h2>Hello, I am an entertainment bot to encourage activity on your server.</h2>
 </div>
 
 <div align="center">
