@@ -1,11 +1,9 @@
 ---
 <p align="center">
-  <a href="https://wayz.js.org">
-    <img width="250" src="https://github.com/Wayz-Bot/Wayz-Bot/blob/main/src/img/wayz.png">
-  </a>
+  <a href="https://wayz.js.org"><img width="250" src="https://github.com/Wayz-Bot/Wayz-Bot/blob/main/src/img/wayz.png"></a>
 </p>
 
-<div align="center">
+<div style="font-size 30px" align="center">
   <h1>Wayz!</h1>
 </div>
 <div align="center"> 
