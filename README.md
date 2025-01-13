@@ -17,12 +17,12 @@
   <h2><b>What are you waiting for to start our adventure?</b></h2>
   <h2>An all-in-one bot with endless features!</h2>
   <h3>
-⚙️ Configuration
-📒 Information
-🔨 Moderation
-📝 Utilitys
-✨ Levels
-🎯 Entertainment 
+⚙️ Configuration<br>
+📒 Information<br>
+🔨 Moderation<br>
+📝 Utilities<br>
+✨ Levels<br>
+🎯 Entertainment<br>
 ❓ More...
   </h3>
 </div>
