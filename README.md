@@ -3,6 +3,9 @@
   <a href="https://wayz.js.org"><img width="250" src="https://github.com/Wayz-Bot/Wayz-Bot/blob/main/src/img/wayz.png"></a>
 </p>
 
+<div align="center">
+<h1>Wayz! Discord Bot</h1>
+</div>
 
 <div align="center">
 <h3>To know the list of commands, it is as simple as writing <code>,help</code> and navigating the dynamic menu.</h3> 
